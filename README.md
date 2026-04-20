@@ -49,18 +49,24 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ashen-bhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashen-bhagya" height="30" width="40" /></a>
-<a href="https://medium.com/@ashenbhagye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashenbhagye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alphaash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alphaash" height="30" width="40" /></a>
-<a href="https://leetcode.com/ashenbgy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashenbgy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashen-bhagya" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50" style="margin:8px"/>
+</a>
+<a href="https://medium.com/@ashenbhagye" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="50" style="margin:8px"/>
+</a>
+<a href="https://www.hackerrank.com/alphaash" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="50" style="margin:8px"/>
+</a>
+<a href="https://leetcode.com/ashenbgy" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg" width="50" style="margin:8px"/>
+</a>
 </p>
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -84,5 +90,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
-
 </p>
