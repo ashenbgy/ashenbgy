@@ -67,27 +67,73 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" alt="PHP"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="Android"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" alt="Arduino"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" alt="Spring"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" alt="Angular"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" alt="Jenkins"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" alt="RabbitMQ"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50" alt="Kafka"/>
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="50" alt="MariaDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Oracle"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50" alt="Photoshop"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman"/>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.php.net" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/PHP-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/>
+</a>
+<a href="https://developer.android.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Arduino.svg" width="50" height="50"/>
+</a>
+<a href="https://spring.io/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Spring-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://angular.io" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Angular-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/AWS-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
+</a>
+<a href="https://www.jenkins.io" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Jenkins-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.rabbitmq.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/RabbitMQ-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Kafka.svg" width="50" height="50"/>
+</a>
+<a href="https://mariadb.org/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/MariaDB-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.oracle.com/" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Oracle-Light.svg" width="50" height="50"/>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Photoshop.svg" width="50" height="50"/>
+</a>
+<a href="https://postman.com" target="_blank">
+  <img src="https://github.com/ashenbgy/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/>
+</a>
 </p>
