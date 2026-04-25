@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Spring Eco-System, AI**
+- 🌱 I’m currently learning **Spring Eco-System & AI**
 
 - 🧑‍🎓 I’m a Graduate at **Wrexham University**
 
